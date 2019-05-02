@@ -1,0 +1,13 @@
+comments =
+post =
+timeout = 120
+format = xhtml
+whatsin = fragment
+whatsout = fragment
+pmml =
+nodefaultresources = 
+preload = LaTeX.pool
+preload = article.cls
+preload = zbl.sty
+path = /usr/local/share/perl5/site_perl/LaTeXML/texmf/
+path = $LATEXMLINPUTS

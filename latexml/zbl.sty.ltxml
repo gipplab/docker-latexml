@@ -1,0 +1,8 @@
+package LaTeXML::Package::Pool;
+use strict;
+use LaTeXML::Package;
+#**********************************************************************
+
+InputDefinitions('zbl',type=>'sty',noltxml=>1,notex=>0,noerror=>0);
+
+#**********************************************************************
